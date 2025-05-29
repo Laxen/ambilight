@@ -5893,7 +5893,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "Custom_PCBWay:TestPoint_Pad_D1.0mm_SilkscreenFix"
 			(at 242.57 80.01 0)
 			(effects
 				(font
@@ -6957,7 +6957,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "Custom_PCBWay:TestPoint_Pad_D1.0mm_SilkscreenFix"
 			(at 186.69 59.69 0)
 			(effects
 				(font
@@ -7023,7 +7023,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "Custom_PCBWay:TestPoint_Pad_D1.0mm_SilkscreenFix"
 			(at 209.55 80.01 0)
 			(effects
 				(font
@@ -7522,7 +7522,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "Custom_PCBWay:TestPoint_Pad_D1.0mm_SilkscreenFix"
 			(at 186.69 62.23 0)
 			(effects
 				(font
