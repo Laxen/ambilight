@@ -12,8 +12,8 @@
 * 100nF between VBUS and GND was missed, but there's one not far away for the LDO which should be sufficient
 
 ### Level Shifter
-* MCP1416, common component in a small package
-* TODO: This is overkill, maybe find a cheaper one (SN74LVC1T45DBVR?)
+* MCP1416, common component in a small package, enough current output for longer LED strip data lines
+* ~SN74LVC1T45DBVR, only has 24mA output current, might not be enough for longer LED strip data lines~
 
 ### LDO
 * AZ1117-3.3, common component, low enough dropout for 5V -> 3.3V, high enough current for ESP32, modern design that is compatible with low ESR ceramic caps
