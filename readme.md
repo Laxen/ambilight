@@ -2,6 +2,7 @@
 * The ESP32-C3-MINI boards expose USB and have really good documentation
 * ESP32 is generally cheaper and better than ESP8266 (faster CPU, BLE, more RAM/flash), and ESP8266 is not recommended for new designs
 * The ESP32-WROOM boards don't expose the USB interface of the ESP32, which would then require an additional USB-to-UART component adding cost
+* TODO: In the datasheet it says "USB Serial/JTAG Controller can also force the chip into Joint Download Boot mode from SPI Boot mode, as well as force the chip into SPI Boot mode from Joint Download Boot mode. For detailed information, please refer to Chapter 30 USB Serial/JTAG Controller (USB_SERIAL_JTAG).", can this be used to avoid buttons entirely? It would cut costs and make the device easier to use.
 
 ### USB-C Connector
 * TYPE-C-31-M-12, provides USB 2.0 data lines in an easy-to-manufacture package
